@@ -12,6 +12,7 @@
 4.4, 4.7, 4.8, 4.10, 4.11, 4.18 (bỏ câu c và d), 4.26 (bỏ b, c, d, e và f)
 
 ### Chapter 5
+5.2, 5.3 (bỏ chứng minh xuôi)
 
 ### Chapter 6
 
