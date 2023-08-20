@@ -13,7 +13,3 @@
 
 ### Chapter 5
 5.2, 5.3 (bỏ chứng minh xuôi)
-
-### Chapter 6
-
-### Chapter 7
